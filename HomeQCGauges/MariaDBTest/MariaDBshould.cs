@@ -45,10 +45,17 @@ namespace MariaDBTest
         {
 
         }
-        [Fact (Skip ="not developed")]
+        [Fact]
         public void ReadNonEmptyMultipleWithNullTable()
         {
+            //Test that a uknown test table can be read
+            MariaDB DBUUT = new MariaDB("192.168.0.3", 3306, "Acub", "@Aa16621662", "QCGauges", 2);
+            QueryResults queryresults = DBUUT.ReadQuery("SELECT * FROM `Test2`", false);
+            Assert.NotNull(queryresults);
+            Assert.Equal("ID", queryresults.ColumnNames[0]);
+            Assert.Equal("INT", queryresults.ColumnDataTypes[0]);
 
+            Assert.Equal("33", queryresults.Results2D[3][2]);
         }
     }
 }

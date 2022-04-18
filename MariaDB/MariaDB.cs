@@ -17,6 +17,7 @@ namespace Repository.DB
         private UInt32 _timeout_sec;
         
         public bool Connected = false;
+      
 
 
         public MariaDB(string IP_in, UInt32 Port_in, String User_in, String Password, String Database_in, UInt32 timeout_sec)
@@ -92,13 +93,15 @@ namespace Repository.DB
                 while (dataread.Read())
                 {
                     // Read full row
+                    
 
                     List<string> RowData=new List<string>();//This is the list inside Results2D
 
                     for (int i = 0; i < dataread.FieldCount; i++)
                     {
                         //Read all columns in the row
-                        RowData.Add(dataread.GetString(i));
+                        string _datatype = QueryResults.ColumnDataTypes[i];
+                        RowData.Add(MySQLCast.ReadElement(i,_datatype,dataread));
                         
                     }
                     QueryResults.Results2D.Add(RowData);
