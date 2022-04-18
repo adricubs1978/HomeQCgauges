@@ -1,0 +1,10 @@
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\bin\Debug\netcoreapp3.1\HomeQCGauges.Core.deps.json
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\bin\Debug\netcoreapp3.1\HomeQCGauges.Core.dll
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\bin\Debug\netcoreapp3.1\HomeQCGauges.Core.pdb
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.csproj.AssemblyReference.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.AssemblyInfoInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.AssemblyInfo.cs
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.csproj.CoreCompileInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.dll
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\HomeQCGauges.Core\obj\Debug\netcoreapp3.1\HomeQCGauges.Core.pdb

@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\HomeQCGauges.Modules.ModuleName.csproj": {}
+  },
+  "projects": {
+    "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\HomeQCGauges.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\HomeQCGauges.Core.csproj",
+        "projectName": "HomeQCGauges.Core",
+        "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\HomeQCGauges.Core.csproj",
+        "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
+        "outputPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\HomeQCGauges.Modules.ModuleName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\HomeQCGauges.Modules.ModuleName.csproj",
+        "projectName": "HomeQCGauges.Modules.ModuleName",
+        "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\HomeQCGauges.Modules.ModuleName.csproj",
+        "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
+        "outputPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\HomeQCGauges.Core.csproj": {
+                "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\HomeQCGauges.Core\\HomeQCGauges.Core.csproj"
+              },
+              "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\HomeQCGauges.Services.Interfaces.csproj": {
+                "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\HomeQCGauges.Services.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\HomeQCGauges.Services.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\HomeQCGauges.Services.Interfaces.csproj",
+        "projectName": "HomeQCGauges.Services.Interfaces",
+        "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\HomeQCGauges.Services.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
+        "outputPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Services\\HomeQCGauges.Services.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

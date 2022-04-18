@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HomeQCGauges.Modules.ModuleName.Tests
+build_property.ProjectDir = D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Tests\HomeQCGauges.Modules.ModuleName.Tests\

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4unvGtVzWYZyXuGkJ2pp7dSoACtRY/6uh+emSW3SMOvmNqn++nkyivHgkfmbKpQEz7vbAa4VQCH6eP+7X/N5Q==",
+  "success": true,
+  "projectFilePath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\HomeQCGauges\\Modules\\HomeQCGauges.Modules.ModuleName\\HomeQCGauges.Modules.ModuleName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADRIAN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\ADRIAN\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\ADRIAN\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}

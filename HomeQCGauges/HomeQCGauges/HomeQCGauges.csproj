@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>HomeQCGauges</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.DryIoc" Version="8.0.0.1909" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HomeQCGauges.Core\HomeQCGauges.Core.csproj" />
+    <ProjectReference Include="..\Modules\HomeQCGauges.Modules.ModuleName\HomeQCGauges.Modules.ModuleName.csproj" />
+    <ProjectReference Include="..\Services\HomeQCGauges.Services.Interfaces\HomeQCGauges.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\Services\HomeQCGauges.Services\HomeQCGauges.Services.csproj" />
+  </ItemGroup>
+</Project>
