@@ -1,0 +1,13 @@
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\bin\Debug\netstandard2.1\HomeQCGauges.Services.deps.json
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\bin\Debug\netstandard2.1\HomeQCGauges.Services.dll
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\bin\Debug\netstandard2.1\HomeQCGauges.Services.pdb
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\bin\Debug\netstandard2.1\HomeQCGauges.Services.Interfaces.dll
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\bin\Debug\netstandard2.1\HomeQCGauges.Services.Interfaces.pdb
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.csproj.AssemblyReference.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.AssemblyInfoInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.AssemblyInfo.cs
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.csproj.CoreCompileInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.csproj.CopyComplete
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.dll
+D:\AA DevOps\GitHub\HomeQCgauges\HomeQCGauges\Services\HomeQCGauges.Services\obj\Debug\netstandard2.1\HomeQCGauges.Services.pdb
