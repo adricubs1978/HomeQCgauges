@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCQGEJLB3IcAHcwm6nqrh+mStst0xQLID/uYPfH4335CNfbuxdc0aQlVkfuPo6imqykD7LF8btsOAEjFw8nv0Q==",
+  "dgSpecHash": "gYP7F14ccCv5XMbCzIfyGvsFp58pjoeghhHAcKGCHRpqVpYhN129zi6jaGt+RpMMLvTK8+NrYaUn2IvQVV8Bew==",
   "success": true,
-  "projectFilePath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\MariaDB.csproj",
+  "projectFilePath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\Repository.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADRIAN\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512"
   ],

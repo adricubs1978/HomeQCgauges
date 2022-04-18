@@ -55,9 +55,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\MariaDB.csproj",
-      "projectName": "MariaDB",
-      "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\MariaDB.csproj",
+      "projectUniqueName": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\Repository.DB.csproj",
+      "projectName": "Repository.DB",
+      "projectPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\Repository.DB.csproj",
       "packagesPath": "C:\\Users\\ADRIAN\\.nuget\\packages\\",
       "outputPath": "D:\\AA DevOps\\GitHub\\HomeQCgauges\\MariaDB\\obj\\",
       "projectStyle": "PackageReference",

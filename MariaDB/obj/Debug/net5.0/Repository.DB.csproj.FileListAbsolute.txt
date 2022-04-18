@@ -1,0 +1,12 @@
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\bin\Debug\net5.0\Repository.DB.deps.json
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\bin\Debug\net5.0\Repository.DB.dll
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\bin\Debug\net5.0\ref\Repository.DB.dll
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\bin\Debug\net5.0\Repository.DB.pdb
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.csproj.AssemblyReference.cache
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.AssemblyInfoInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.AssemblyInfo.cs
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.csproj.CoreCompileInputs.cache
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.dll
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\ref\Repository.DB.dll
+D:\AA DevOps\GitHub\HomeQCgauges\MariaDB\obj\Debug\net5.0\Repository.DB.pdb
