@@ -27,5 +27,9 @@ namespace HomeQCGauges
         {
             moduleCatalog.AddModule<ModuleNameModule>();
         }
+        protected override IModuleCatalog CreateModuleCatalog()
+        {
+            return new DirectoryModuleCatalog();
+        }
     }
 }
